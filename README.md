@@ -1,6 +1,6 @@
 # 📚 Práticas do Curso de JavaScript Moderno
 
-Este repositório contém minhas anotações, códigos e exercícios realizados durante o curso [JavaScript Moderno - Do Básico ao Avançado (2022+)](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/) oferecido na Udemy pelo professor Luiz Otávio Miranda.
+Este repositório contém minhas anotações, códigos e exercícios realizados durante o curso [Curso de JavaScript e TypeScript do básico ao avançado JS/TS](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/) oferecido na Udemy pelo professor Luiz Otávio Miranda.
 
 ---
 
